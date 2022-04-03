@@ -26,3 +26,5 @@ lane_detection.py:
 
 
 object_detection.py :
+Coco dateset is a pretrained dataset 
+The file of format pbtxt is used for training and running object recognization model.   
